@@ -17,3 +17,13 @@
 测试自己上传的耳朵图片，输出为：
 
 ![](./homework1_RTMPose_ear_pose_estimate/outputs/G2_RTMDet-RTMPose/myear.jpg)
+
+## 第二次作业
+
+训练全流程代码见 ./homework2_ResNet50_fruit_classification/main.ipynb
+
+训练配置文件见 ./homework2_ResNet50_fruit_classification/projects/fruit/resnet50_finetune.py
+
+在验证集上的准确率为：
+
+![](./homework2_ResNet50_fruit_classification/img/test.png)

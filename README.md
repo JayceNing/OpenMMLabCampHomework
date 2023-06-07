@@ -4,6 +4,8 @@
 
 ## 第一次作业
 
+作业要求见：https://github.com/open-mmlab/OpenMMLabCamp/issues/93
+
 训练全流程代码见 ./homework1_RTMPose_ear_pose_estimate/main.ipynb
 
 目标检测模型使用示例配置文件 rtmdet_tiny_ear.py 。训练 120 epoch 在测试集上得分为：
@@ -20,6 +22,8 @@
 
 ## 第二次作业
 
+作业要求见：https://github.com/open-mmlab/OpenMMLabCamp/issues/108
+
 训练全流程代码见 ./homework2_ResNet50_fruit_classification/main.ipynb
 
 训练配置文件见 ./homework2_ResNet50_fruit_classification/projects/fruit/resnet50_finetune.py
@@ -27,3 +31,9 @@
 在验证集上的准确率为：
 
 ![](./homework2_ResNet50_fruit_classification/img/test.png)
+
+该模型已上传至百度网盘：
+
+链接：https://pan.baidu.com/s/18LsqYGDtzsLZBMZN2cxv6A 
+
+提取码：ovec 

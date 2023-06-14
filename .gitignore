@@ -130,6 +130,8 @@ docs/**/modelzoo.md
 mmpretrain
 mmdetection
 mmyolo
+mmpose
+mmsegmentation
 
 # Pytorch
 *.pth

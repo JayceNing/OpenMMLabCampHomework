@@ -24,6 +24,12 @@
 
 详见 main.ipynb
 
+## checkpoints
+
+链接：https://pan.baidu.com/s/14ge5OYr92iAQgS1iAp2FCQ 
+提取码：86bi 
+--来自百度网盘超级会员V6的分享
+
 ### 数据集可视化
 
 balloon 数据集可视化
@@ -51,3 +57,4 @@ balloon 数据集标注框可视化
 ### Box AM 可视化
 
 ![](./img/BoxAM1.jpg)
+

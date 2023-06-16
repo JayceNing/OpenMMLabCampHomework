@@ -35,6 +35,12 @@ mAcc: 28.4600
 
 详见 main.ipynb
 
+## checkpoints
+
+链接：https://pan.baidu.com/s/1ZOOpcano4UR5MfsX-LwNRA 
+提取码：j5jv 
+--来自百度网盘超级会员V6的分享
+
 ### 测试图片
 
 ![](./img/test.jpg)

@@ -2,38 +2,14 @@
 
 这里是 OpenMMLab AI实战营 第二期 12班 同学 Jayce Ning 的作业仓库。
 
-## 第一次作业
+## 作业 Markdown
 
-作业要求见：https://github.com/open-mmlab/OpenMMLabCamp/issues/93
+[第一次作业](https://github.com/BUPT-NingXinyu/OpenMMLabCampHomework/blob/master/homework1_RTMPose_ear_pose_estimate/README.md)
 
-训练全流程代码见 ./homework1_RTMPose_ear_pose_estimate/main.ipynb
+[第二次作业](https://github.com/BUPT-NingXinyu/OpenMMLabCampHomework/blob/master/homework2_ResNet50_fruit_classification/README.md)
 
-目标检测模型使用示例配置文件 rtmdet_tiny_ear.py 。训练 120 epoch 在测试集上得分为：
+[第三次作业](https://github.com/BUPT-NingXinyu/OpenMMLabCampHomework/blob/master/homework3_RTMDet_balloon_detect/README.md)
 
-![](./homework1_RTMPose_ear_pose_estimate/img/detection_map.png)
+[第四次作业](https://github.com/BUPT-NingXinyu/OpenMMLabCampHomework/blob/master/homework4_PSPNet_watermelon_segmentation/README.md)
 
-关键点检测模型使用示例配置文件 rtmpose-s-ear.py 。 训练 300 epoch 在测试集上得分为：
 
-![](./homework1_RTMPose_ear_pose_estimate/img/rtmpose_socre.png)
-
-测试自己上传的耳朵图片，输出为：
-
-![](./homework1_RTMPose_ear_pose_estimate/outputs/G2_RTMDet-RTMPose/myear.jpg)
-
-## 第二次作业
-
-作业要求见：https://github.com/open-mmlab/OpenMMLabCamp/issues/108
-
-训练全流程代码见 ./homework2_ResNet50_fruit_classification/main.ipynb
-
-训练配置文件见 ./homework2_ResNet50_fruit_classification/projects/fruit/resnet50_finetune.py
-
-在验证集上的准确率为：
-
-![](./homework2_ResNet50_fruit_classification/img/test.png)
-
-该模型已上传至百度网盘：
-
-链接：https://pan.baidu.com/s/18LsqYGDtzsLZBMZN2cxv6A 
-
-提取码：ovec 
